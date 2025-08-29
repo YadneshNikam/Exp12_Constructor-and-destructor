@@ -33,7 +33,7 @@ int main() {
 }
 /*Enter account holder name: Yadnesh
 Enter account number: 123123
-Enter initial balance: 0
+Enter initial balance: 10000000
 Account Holder Name: Yadnesh
 Account Number: 123123
-Balance: 0*/
+Balance: 10000000*/
